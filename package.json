@@ -1,0 +1,23 @@
+{
+  "name": "hackathonclt2018",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://nathanmundo.com/demo/clthousing",
+  "dependencies": {
+    "@material-ui/icons": "^1.0.0-beta.42",
+    "ajv": "^6.4.0",
+    "axios": "^0.18.0",
+    "leaflet": "^1.3.1",
+    "material-ui": "^1.0.0-beta.41",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-leaflet": "^1.9.1",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
